@@ -1,0 +1,5 @@
+tabbed
+xembed
+*.orig
+*.rej
+*.o
